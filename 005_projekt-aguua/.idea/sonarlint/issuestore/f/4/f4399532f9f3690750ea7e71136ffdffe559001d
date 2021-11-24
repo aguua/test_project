@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ι‹ϋÿÿÿÿ
+f
+java:S1104"PMake meal a static final constant or non-public and provide accessors if needed.(―ύªλ
+¤
+java:S2293"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(ÿξέ
+7
+java:S1116"Remove this empty statement.(τμϊÿÿÿÿ
+7
+java:S1116 "Remove this empty statement.(τμϊÿÿÿÿ

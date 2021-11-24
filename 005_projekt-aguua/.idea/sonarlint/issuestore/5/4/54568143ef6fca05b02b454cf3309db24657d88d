@@ -1,0 +1,9 @@
+
+2
+java:S1116"Remove this empty statement.(óŽª×
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«†Çq
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(Àˆúìøÿÿÿÿ
+n
+java:S1104
+"SMake factory a static final constant or non-public and provide accessors if needed.(‡ÀË‡ûÿÿÿÿ
