@@ -48,7 +48,7 @@ public class TemplateMethodTest {
     public void TestOrderMealProfit(){
         MexicanRestaurant res = MexicanRestaurant.getInstance();
         res.orderMeal(4);
-        assertEquals(18.99,res.profit, 0.1);
+        assertEquals(79.99,res.profit, 0.1);
     }
 
     @Test
