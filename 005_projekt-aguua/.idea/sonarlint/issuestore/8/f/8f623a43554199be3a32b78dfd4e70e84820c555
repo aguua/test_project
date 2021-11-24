@@ -1,8 +1,0 @@
-
-q
-java:S1104"VMake restaurant a static final constant or non-public and provide accessors if needed.(–›ώÿÿÿÿ
-x
-java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ληΊ
-y
-java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Παζ‰
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΫΉώϋÿÿÿÿ
